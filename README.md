@@ -11,7 +11,7 @@ I am a Computer Engineering student with a strong interest in Data Science, Mach
 ## 🚀 Live Portfolio
 
 🌐 **Portfolio Website:**  
-https://pandya-rishi2005.github.io/
+[https://pandya-rishi2005.github.io/](https://pandya-rishi2005.github.io/Rishi-Portfolio/)
 
 ---
 
