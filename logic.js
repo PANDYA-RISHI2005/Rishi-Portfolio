@@ -73,6 +73,30 @@ const projectsData = [
 
         demo: ""
     },
+
+    {
+    id: 3,
+    title: "Sales Data Analysis",
+    category: "data-analysis",
+    date: "2026-08-30",
+
+    description:
+        "An exploratory data analysis project that analyzes retail sales, profit, products, customer segments, regions, discounts, and sales trends using the Superstore dataset.",
+
+    tech: [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Jupyter Notebook"
+    ],
+
+    github:
+        "https://github.com/PANDYA-RISHI2005/Data-Science-Projects/tree/main/01_Data_Analysis/Sales_Data_Analysis",
+
+    demo: ""
+},
     
 
 
