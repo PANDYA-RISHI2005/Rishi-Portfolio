@@ -93,7 +93,7 @@ const projectsData = [
     ],
 
     github:
-        "https://github.com/PANDYA-RISHI2005/Data-Science-Projects/tree/main/01_Data_Analysis/Sales_Data_Analysis",
+        "https://github.com/PANDYA-RISHI2005/Data-Science-Projects/tree/main/01_Data_Analysis/Sales-data-analysis",
 
     demo: ""
 },
